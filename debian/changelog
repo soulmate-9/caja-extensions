@@ -1,3 +1,9 @@
+caja-extensions (1.18.1-3+soulmate.is.1.16.0+1.2) stretch; urgency=medium
+
+  * Dummy upgrade due to betsy new release
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Wed, 11 Apr 2018 00:39:24 +0000
+
 caja-extensions (1.18.1-2+soulmate.is.1.16.0+1.1) stretch; urgency=medium
 
   * Non-maintainer upload.
